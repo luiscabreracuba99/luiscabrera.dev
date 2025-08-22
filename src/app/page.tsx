@@ -33,7 +33,7 @@ export default function Home() {
             Luis Cabrera
           </h1>
           <h2 className="text-2xl sm:text-3xl md:text-4xl text-blue-300 mb-6 sm:mb-8 font-light">
-            Full Stack Engineer
+            Full Stack SoftwareEngineer
           </h2>
           <p className="text-lg sm:text-xl md:text-2xl text-white/80 max-w-4xl mx-auto leading-relaxed mb-8 sm:mb-12 px-4">
             Building scalable SaaS applications with Next.js and Java Spring Boot. 
@@ -88,10 +88,10 @@ export default function Home() {
                 <h4 className="text-xl sm:text-2xl font-semibold text-white mb-4 sm:mb-6">Quick Facts</h4>
                 <div className="space-y-3 sm:space-y-4">
                   {[
-                    { icon: "🎓", text: "Florida International University (Expected May 2025)" },
+                    { icon: "🎓", text: "Bachelor in Computer Science at Florida International University" },
                     { icon: "🚀", text: "Co-Founder at ResellSync" },
                     { icon: "💼", text: "CEO at Wegowefix" },
-                    { icon: "⚡", text: "Full Stack Development Expert" }
+                    { icon: "⚡", text: "Full Stack Software Engineer" }
                   ].map((fact, index) => (
                     <div key={index} className="flex items-center space-x-3 p-2 sm:p-3 bg-white/5 rounded-lg">
                       <span className="text-xl sm:text-2xl">{fact.icon}</span>
