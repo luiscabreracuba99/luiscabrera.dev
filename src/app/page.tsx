@@ -222,7 +222,7 @@ export default function Home() {
             <AnimatedSection animation="fade-left" delay={400} className="space-y-4 sm:space-y-6">
               <p className="text-lg sm:text-xl text-white/80 leading-relaxed">
                 I&apos;m a Full Stack Engineer with experience in building scalable SaaS applications 
-                that boost user data security and application performance. Currently pursuing my 
+                that boost user data security and application performance. Completed my 
                 Bachelor&apos;s in Computer Science at Florida International University.
               </p>
               <p className="text-lg sm:text-xl text-white/80 leading-relaxed">
@@ -236,7 +236,7 @@ export default function Home() {
                 <h4 className="text-xl sm:text-2xl font-semibold text-white mb-4 sm:mb-6">Quick Facts</h4>
                 <div className="space-y-3 sm:space-y-4">
                   {[
-                    { icon: "🎓", text: "Florida International University (Expected May 2025)" },
+                    { icon: "🎓", text: "Florida International University May 2025" },
                     { icon: "🚀", text: "Software Engineer at ResellSync" },
                     { icon: "⚡", text: "Full Stack Development Expert" }
                   ].map((fact, index) => (

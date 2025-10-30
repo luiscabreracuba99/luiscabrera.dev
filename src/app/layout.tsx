@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Luis Cabrera - Full Stack Engineer",
-  description: "Full Stack Engineer specializing in Next.js, Java Spring Boot, and scalable SaaS applications. Co-Founder at ResellSync and CEO at Wegowefix.",
+  description: "Full Stack Engineer specializing in Next.js, Java Spring Boot, and scalable SaaS applications. Full Stack Software Engineer at ResellSync and Software Engineer at Wegowefix.",
 };
 
 export default function RootLayout({
