@@ -236,8 +236,7 @@ export default function Home() {
                 <div className="space-y-3 sm:space-y-4">
                   {[
                     { icon: "🎓", text: "Florida International University (Expected May 2025)" },
-                    { icon: "🚀", text: "Co-Founder at ResellSync" },
-                    { icon: "💼", text: "CEO at Wegowefix" },
+                    { icon: "🚀", text: "Software Engineer at ResellSync" },
                     { icon: "⚡", text: "Full Stack Development Expert" }
                   ].map((fact, index) => (
                     <AnimatedSection 
@@ -340,7 +339,7 @@ export default function Home() {
                 <div className="absolute left-2 sm:left-6 w-3 h-3 sm:w-4 sm:h-4 bg-blue-500 rounded-full border-4 border-slate-900"></div>
                 <div className="bg-gradient-to-r from-white/10 to-white/5 backdrop-blur-sm p-6 sm:p-8 rounded-2xl border border-white/20 shadow-xl hover:scale-[1.02] transition-transform duration-300">
                   <h4 className="text-xl sm:text-2xl font-semibold text-white mb-2">
-                    Full Stack Engineer & Co-Founder
+                    Full Stack Engineer
                   </h4>
                   <p className="text-blue-300 font-medium text-base sm:text-lg mb-2">ResellSync • Miami, FL</p>
                   <p className="text-white/60 text-xs sm:text-sm mb-3 sm:mb-4">January 2024 - Present</p>
@@ -357,7 +356,7 @@ export default function Home() {
                 <div className="absolute left-2 sm:left-6 w-3 h-3 sm:w-4 sm:h-4 bg-purple-500 rounded-full border-4 border-slate-900"></div>
                 <div className="bg-gradient-to-r from-white/10 to-white/5 backdrop-blur-sm p-6 sm:p-8 rounded-2xl border border-white/20 shadow-xl hover:scale-[1.02] transition-transform duration-300">
                   <h4 className="text-xl sm:text-2xl font-semibold text-white mb-2">
-                    Software Engineer & CEO
+                    Software Engineer
                   </h4>
                   <p className="text-purple-300 font-medium text-base sm:text-lg mb-2">Wegowefix • Miami, FL</p>
                   <p className="text-white/60 text-xs sm:text-sm mb-3 sm:mb-4">January 2021 - December 2024</p>
