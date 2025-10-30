@@ -6,6 +6,7 @@ import { CustomCursor } from '../components/CustomCursor';
 import { GlitchText } from '../components/GlitchText';
 import { InteractiveTerminal } from '../components/InteractiveTerminal';
 import { SkillsRadar } from '../components/SkillsRadar';
+//update for deploy
 
 export default function Home() {
   const [hackerMode, setHackerMode] = useState(false);
