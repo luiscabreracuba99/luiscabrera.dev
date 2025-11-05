@@ -199,7 +199,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-r from-blue-700 to-purple-700 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
           </a>
           <a
-              href="mailto:luiscabreracuba99@gmail.com"
+              href="mailto:luiscabreradev99@gmail.com"
               className="cursor-hover group w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 border-2 border-white/30 text-white rounded-xl font-medium transition-all duration-300 hover:bg-white/10 hover:border-white/50 hover:scale-105 text-center"
             >
               Get in Touch
@@ -481,11 +481,11 @@ export default function Home() {
             
             <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center items-center px-4">
               <a
-                href="mailto:luiscabreracuba99@gmail.com"
+                href="mailto:luiscabreradev99@gmail.com"
                 className="group relative w-full sm:w-auto px-6 sm:px-10 py-3 sm:py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl font-medium transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-blue-500/25 text-center opacity-0 animate-fade-in-up"
                 style={{animationDelay: '0.6s'}}
               >
-                <span className="relative z-10">luiscabreracuba99@gmail.com</span>
+                <span className="relative z-10">luiscabreradev99@gmail.com</span>
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-700 to-purple-700 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               </a>
               
@@ -511,7 +511,7 @@ export default function Home() {
             © 2024 Luis Cabrera. Built with Next.js and Tailwind CSS.
           </p>
           <div className="flex justify-center space-x-4 sm:space-x-6">
-            <a href="mailto:luiscabreracuba99@gmail.com" className="text-white/60 hover:text-white transition-colors text-sm sm:text-base">
+            <a href="mailto:luiscabreradev99@gmail.com" className="text-white/60 hover:text-white transition-colors text-sm sm:text-base">
               Email
             </a>
             <a href="https://www.linkedin.com/in/luiscabreralopez/" target="_blank" rel="noopener noreferrer" className="text-white/60 hover:text-white transition-colors text-sm sm:text-base">
